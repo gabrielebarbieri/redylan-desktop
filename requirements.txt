@@ -1,6 +1,7 @@
+tornado
 spacy
-pronouncing
+# pronouncing
 # epitran  # for french pronunciation
 
-# todo replae with a proper distribution
+# todo replace with a proper distribution
 git+ssh://git@github.com/gabrielebarbieri/markovconstraints.git
